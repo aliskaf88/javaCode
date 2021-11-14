@@ -6,7 +6,7 @@
  ******************************************************************************/
 import java.util.* ;
 
-public class Horloge {
+public class Horloge1 {
         
     public static void main(String[] args) { 
 	    StdDraw.enableDoubleBuffering();
